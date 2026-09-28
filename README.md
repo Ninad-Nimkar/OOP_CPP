@@ -4,4 +4,4 @@ ZPRN: 125UAD1269
 
 Div: E
 
-Course: SYIAIDS
+Course: SYAIDS
